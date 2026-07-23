@@ -1,0 +1,32 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Maintenance mode by Juraj Hamara 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/maintenance-mode-by-juraj-hamara/\n"
+"POT-Creation-Date: 2026-07-15 15:16+0000\n"
+"PO-Revision-Date: 2026-07-15 15:16+0000\n"
+"Last-Translator: Juraj Hamara <mail@jurajhamara.sk>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Domain: juraj-hamara-maintenance\n"
+"X-Generator: polib\n"
+
+#: maintenance.php
+msgid "The site is currently under maintenance."
+msgstr "Strona jest obecnie w trakcie konserwacji."
+
+#: maintenance.php
+msgid "Please come back later."
+msgstr "Prosimy spróbować później."
+
+#: maintenance.php
+msgid "Maintenance on - click to turn off"
+msgstr "Tryb konserwacji włączony - kliknij, aby wyłączyć"
+
+#: maintenance.php
+msgid "You are not allowed to do this."
+msgstr "Nie masz uprawnień do wykonania tej akcji."
