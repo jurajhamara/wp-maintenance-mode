@@ -20,3 +20,7 @@ Thumbs.db
 /build/
 /dist/
 *.zip
+
+# Pokyny pre asistenta - len lokálne, nepatria do repa
+CLAUDE.md
+.claude/
